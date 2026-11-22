@@ -1,0 +1,17 @@
+{
+  "name": "체온·혈압 노트",
+  "short_name": "측정 노트",
+  "description": "정해진 시간에만 체온과 혈압을 재고 기록하는 개인 측정 노트",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#edf1f3",
+  "theme_color": "#1d6a73",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
